@@ -1,0 +1,3 @@
+[submodule "voxTool"]
+	path = voxTool
+	url = git@github.com:migparra73/voxTool.git
